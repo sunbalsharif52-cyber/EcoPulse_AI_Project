@@ -1,3 +1,4 @@
+
 # EcoPulse AI: Live Global Inflation & Energy Price Dynamics Dashboard
 
 This repository houses **EcoPulse AI**, an interactive Data Analytics dashboard built with Streamlit. Instead of using static downloaded files, this project leverages **Automated API Integration** to fetch real-time macroeconomic indicators directly from global databases.
@@ -33,3 +34,4 @@ The system automatically merges these two live streams into a unified timeline (
 * **API Integration:** Requests / API Client Libraries (World Bank & Financial Data Engines)
 * **Data Manipulation & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 * **Version Control:** GitHub Portfolio Pipeline
+
